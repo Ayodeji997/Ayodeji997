@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayodeji997
+- 👀 I’m interested in cybersecrity 
+- 🌱 I’m currently learning system security
+- 💞️ I’m looking to collaborate on System,Network and application security 
+- 📫 How to reach me ayodejisolomon61@gmail.com or whatsapp +2347084129880
